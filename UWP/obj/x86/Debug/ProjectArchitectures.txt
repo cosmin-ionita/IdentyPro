@@ -1,0 +1,2 @@
+C:\Users\Cosmin Ionita\Desktop\XamarinHack\IdentyPro\IdentyPro.csproj;neutral
+C:\Users\Cosmin Ionita\Desktop\XamarinHack\UWP\IdentyPro.UWP.csproj;x86
